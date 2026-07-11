@@ -1,0 +1,15 @@
+torch
+transformers
+tree_sitter
+tree_sitter_java
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+tabpfn-client
