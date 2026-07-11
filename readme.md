@@ -5,7 +5,7 @@ Prediction*. One notebook runs the whole experiment — graph-enhanced embedding
 classification, the ablation study and the significance tests — and a reporting layer prints the
 RQ1–RQ4 answers, with figures, **from the tables it just computed**.
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/dsslab-projects/Graph-Enhanced-CodeT5-Embeddings-for-Software-Fault-Severity-Prediction/blob/main/Graph_Enhanced_CodeT5p_Severity_Prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dsslab-projects/Graph-Enhanced-CodeT5-Embeddings-for-Software-Fault-Severity-Prediction/blob/main/Graph_Enhanced_CodeT5p_Severity_Prediction.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/dsslab-projects/Graph-Enhanced-CodeT5-Embeddings-for-Software-Fault-Severity-Prediction-main/blob/main/Graph_Enhanced_CodeT5p_Severity_Prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dsslab-projects/Graph-Enhanced-CodeT5-Embeddings-for-Software-Fault-Severity-Prediction-main/blob/main/Graph_Enhanced_CodeT5p_Severity_Prediction.ipynb)
 
 ## Quickstart (Kaggle recommended)
 
